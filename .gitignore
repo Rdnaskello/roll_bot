@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+debug/
+logs/
+*.backup.py
+roll_bot_v5_backup*.py
+*.bak
+.DS_Store
+Thumbs.db
+
+templates/*_raw.png

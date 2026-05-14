@@ -1,0 +1,53 @@
+{
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "ocr_languages": "rus+eng",
+    "text_psm_modes": [
+        7,
+        8,
+        13
+    ],
+    "use_text_whitelist": true,
+    "auto_crop_gold_text": true,
+    "gold_hsv_lower": [
+        10,
+        50,
+        80
+    ],
+    "gold_hsv_upper": [
+        50,
+        255,
+        255
+    ],
+    "selected_target_id": "agility_3000",
+    "left_button": [
+        1084,
+        711
+    ],
+    "right_button": [
+        1298,
+        708
+    ],
+    "ocr_regions": {
+        "stat_name": [
+            1196,
+            460,
+            149,
+            21
+        ],
+        "stat_value": [
+            1349,
+            460,
+            68,
+            18
+        ]
+    },
+    "wait_after_clear": 1.0,
+    "wait_after_ignore": 1.0,
+    "wait_after_exchange": 1.0,
+    "start_delay_seconds": 3,
+    "max_attempts": 1000,
+    "exact_tolerance": 0.001,
+    "debug": true,
+    "save_debug_every_attempt": false,
+    "dry_run": false
+}

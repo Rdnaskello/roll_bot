@@ -1,0 +1,18 @@
+{
+    "targets": [
+        {
+            "id": "skorost_1778778638",
+            "stat_text": "Скорость",
+            "value_mode": "greater_or_equal",
+            "value": 75000.0,
+            "name": "Скорость 75000.0"
+        },
+        {
+            "id": "skorost_1778799579",
+            "stat_text": "Скорость",
+            "value_mode": "greater_or_equal",
+            "value": 20000.0,
+            "name": "Скорость больше 20к"
+        }
+    ]
+}
